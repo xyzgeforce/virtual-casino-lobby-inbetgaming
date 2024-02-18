@@ -70,7 +70,7 @@
     "cross-env": "5.2.0",
     "i18next-parser": "0.13.0",
     "protobufjs": "6.8.8",
-    "qs": "6.6.0",
+    "qs": "6.6.1",
     "react-custom-scrollbars": "4.2.1",
     "source-map-explorer": "1.7.0",
     "typescript": "3.3.3",
